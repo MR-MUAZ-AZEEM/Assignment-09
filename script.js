@@ -106,3 +106,40 @@
 // }
 // console.log(f);
 
+// 24. Write a js program to find HCF (GCD) of two numbers.
+
+// var x = 6, y = 9;
+// for(var n = 1; n <= x && n <= y; n++){
+//     if(x % n == 0 && y % n == 0){
+//         var hcf = n;
+//     }
+// }
+// console.log(hcf);
+
+// 25. Write a js program to find LCM of two numbers.
+
+// var x = 5, y = 10;
+// for(var n = 1; n <= x && n <= y; n++){
+//     if(x % n == 0 && y % n == 0){
+//         var hcf = n;
+//     }
+// }
+// console.log(hcf);
+// var lcm = (x * y) / hcf;
+// console.log(lcm);
+
+// 32. Write a js program to check whether a number is Perfect number or not.
+
+// var x = 496;
+// var sum = 0;
+// for(var n = 0; n < x; n++){
+//     if(x % n == 0){
+//        sum = sum + n;      
+//     }
+// }
+// if(sum == x){
+//     console.log("It's A Perfect Number.");
+// }
+// else{
+//     console.log("It's Not A Perfect Number.");
+// }
